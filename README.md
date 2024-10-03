@@ -1,5 +1,7 @@
+-Sivaram Challa
 
--  This Project is regarding the prediction of Heart Disease using some parameters
+-Gmail : challa.sivaram.26@gmail.com
+
 
 <!---
 sivaram-challa/sivaram-challa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
